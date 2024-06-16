@@ -1,0 +1,7 @@
+install these packages:
+   npm i passport passport-local passport-local-mongoose mongoose express-session
+
+write app.js code first in app.jss file and write after view engine and before logger
+
+setup user.js then properly
+in index.js, try register first and then others codes aswell
